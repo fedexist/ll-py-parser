@@ -53,6 +53,8 @@ with R0...R7 the rules in the aforementioned grammar
 
 ## Examples and corresponding output
 
+    python ll-py-parser.py file_senza_errori.txt file_con_errore_1.txt file_con_errore_2.txt
+
 **file_senza_errori.txt**
 
 ~~~~ {.txt .numberLines startFrom="1"}
